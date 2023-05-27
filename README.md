@@ -6,3 +6,6 @@
 
 
 내가 자주 가는 정류장쪽으로 지도 초점 설정해놓음
+
+
+![Screenshot_20230527_174142_BusStop](https://github.com/OikuraSodachi/BusStop/assets/107153337/c5f9c270-f196-44e1-aad7-44a5f6d59987)
