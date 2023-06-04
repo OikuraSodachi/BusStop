@@ -9,4 +9,4 @@
 
 ![Screenshot_20230604_171236_BusStop](https://github.com/OikuraSodachi/BusStop/assets/107153337/032a4171-18f6-4c7d-8c45-25addba1f3f1)
 
-Start와 End 지점 정류소를 통과하는 노선의 목록(화면 우측)
+Start(좌측 검정바탕)와 End(좌측 갈색바탕) 지점 정류소를 통과하는 노선의 목록(화면 우측)
