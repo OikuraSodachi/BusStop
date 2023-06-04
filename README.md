@@ -1,11 +1,6 @@
-출발지점 정류장의 목록, 도착지점 정류장의 목록을 지정해서 조건을 만족하는 노선 목록을 띄우는 앱
-
-.
-
-직접 쓸 목적으로, 최소한의 기능만 구현했기에 다른사람이 쓰기에는 매우 불편할듯함...
+출발지점 정류장의 목록, 도착지점 정류장의 목록을 지정해서 조건을 만족하는 노선 목록을 띄우는 기능이 있는 버스도착정보 앱
 
 
-내가 자주 가는 정류장쪽으로 지도 초점 설정해놓음
+![Screenshot_20230604_171426_BusStop](https://github.com/OikuraSodachi/BusStop/assets/107153337/ca584505-473f-452b-8db3-e2b58dc18fa9)
 
-
-![Screenshot_20230527_174142_BusStop](https://github.com/OikuraSodachi/BusStop/assets/107153337/c5f9c270-f196-44e1-aad7-44a5f6d59987)
+![Screenshot_20230604_171236_BusStop](https://github.com/OikuraSodachi/BusStop/assets/107153337/032a4171-18f6-4c7d-8c45-25addba1f3f1)
